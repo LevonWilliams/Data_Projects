@@ -2,7 +2,7 @@ Portfolio of completed projects I worked on while attending the Business Intelli
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 0 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 0 | [NYC AIR BNB DATA] (DIRECTORY LINK) | SPREAD SHEET ANALYSIS. |
 | 1 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
